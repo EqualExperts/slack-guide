@@ -18,15 +18,15 @@ Your Slack profile is very important, as it is the main method people will use t
 In Slack you can alert individual users with @username or @channel to notify everyone in the channel (or @here for just those people online). If you belong to a channel that has a lot of members / content (e.g. #general) @channel notifications might be something you don't want to see. Slack allows per channel customisation of this.
 
 ## Leaving Slack
-When you no longer work for <organisation> your account will be deactivated by the <organisation> slack admin team as part of the normal joiners and leavers process.
+When you no longer work for \<organisation> your account will be deactivated by the \<organisation> slack admin team as part of the normal joiners and leavers process.
 
 ## Finding others
 Slack's Team Directory (availble from the menu) can be incredibly valuable for finding people in a large, distributed organisation. If you have filled in your profile fully then others will be able to find you. You never know when someone will need to find you!
 
 ## Channels
-Slack allows for **public** channels which anyone who is a member of the <organisation> slack can find and **private** channels which you need to be invited to join. By default, every slack joiner becomes a member of **#general** and **#random**. Members can not leave the **#general** channel (but they can silence notifications). **#general** will have many hundreds of members. It is useful to remember this before messaging. Is your query or announcement better served by a more specific channel or do you really need to message all slack members? **#random** is also joined by default but you can leave. **#random** has no rules and is akin to a watercooler for all of <organisation>.
+Slack allows for **public** channels which anyone who is a member of the \<organisation> slack can find and **private** channels which you need to be invited to join. By default, every slack joiner becomes a member of **#general** and **#random**. Members can not leave the **#general** channel (but they can silence notifications). **#general** will have many hundreds of members. It is useful to remember this before messaging. Is your query or announcement better served by a more specific channel or do you really need to message all slack members? **#random** is also joined by default but you can leave. **#random** has no rules and is akin to a watercooler for all of \<organisation>.
 
-<organisation>'s slack channel strategy can be described as “teams, communities, locations, and events”. By team we mean the small group of people that you work with everyday (not the slack 'team). The channel streategy includes:
+\<organisation>'s slack channel strategy can be described as “teams, communities, locations, and events”. By team we mean the small group of people that you work with everyday (not the slack 'team). The channel streategy includes:
 * Each team is encouraged to maintain a public channel (if you are the team lead please consider setting this up)
 * Each team may create multiple private channels for differnt purposes
 * Each community of practice has a public channel (community leads please go ahead and create these)
@@ -45,7 +45,7 @@ People interested in a community of practice are encouraged to join or create a 
 A public community of practice channel should be named  **#community-<name of community of practice>**.
 
 ### Location Channels
-People working within <organisation> at a specific location can benefit from being a member of their own channel. Think of it as a subset of **#general**. Locations managers or members are encouraged to maintain a public channel and use it for discussion and announcement. This will enable people to stay up-to-date with location-specific issues.
+People working within \<organisation> at a specific location can benefit from being a member of their own channel. Think of it as a subset of **#general**. Locations managers or members are encouraged to maintain a public channel and use it for discussion and announcement. This will enable people to stay up-to-date with location-specific issues.
 Public location channels should be named #<location>-<location name>.
 
 ### Event Channels
