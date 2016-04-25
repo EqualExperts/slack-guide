@@ -1,5 +1,5 @@
 # slack-guide
-A guide for rolling out slack and onboarding people in a large (many hundreds of people) organisation. You should be able to replace <organisation> with your own team name and you'll have a good starting point.
+A guide for rolling out slack and onboarding people in a large (many hundreds of people) organisation. You should be able to replace \<organisation> with your own team name and you'll have a good starting point.
 
 ## Joining your slack team
 Joining slack is up to you. Membership is open to everyone in the organisation. You just need to visit
