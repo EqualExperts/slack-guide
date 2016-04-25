@@ -8,7 +8,7 @@ Joining slack is up to you. Membership is open to everyone in the organisation. 
 
 and sign in using your \<organisation> email address.
 
-### Joining if you don't have a \<organistion> email address
+### Joining if you don't have a \<organisation> email address
 If you are not part of \<organisation> then you will need to contact the \<organisation> slack administrators to get access. You'll get a **restricted account** which doesn't have quite the same privileges as normal users but still allows you to collaborate with members of \<organisation>.
 
 ## Your Slack Profile
