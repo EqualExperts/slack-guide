@@ -24,29 +24,29 @@ When you no longer work for \<organisation> your account will be deactivated by 
 Slack's Team Directory (availble from the menu) can be incredibly valuable for finding people in a large, distributed organisation. If you have filled in your profile fully then others will be able to find you. You never know when someone will need to find you!
 
 ## Channels
-Slack allows for **public** channels which anyone who is a member of the \<organisation> slack can find and **private** channels which you need to be invited to join. By default, every slack joiner becomes a member of **#general** and **#random**. Members can not leave the **#general** channel (but they can silence notifications). **#general** will have many hundreds of members. It is useful to remember this before messaging. Is your query or announcement better served by a more specific channel or do you really need to message all slack members? **#random** is also joined by default but you can leave. **#random** has no rules and is akin to a watercooler for all of \<organisation>.
+Slack allows for **public** channels which anyone who is a member of the \<organisation> slack can find and **private** channels which you need to be invited to join. By default, every slack joiner becomes a member of **#general** and **#random**. Members cannot leave the **#general** channel (but they can silence notifications). **#general** will have many hundreds of members. It is useful to remember this before messaging. Is your query or announcement better served by a more specific channel or do you really need to message all slack members? **#random** is also joined by default but you can leave. **#random** has no rules and is akin to a watercooler for all of \<organisation>.
 
-\<organisation>'s slack channel strategy can be described as “teams, communities, locations, and events”. By team we mean the small group of people that you work with everyday (not the slack 'team). The channel streategy includes:
+\<organisation>'s slack channel strategy can be described as “teams, communities, locations, and events”. By team, we mean the small group of people that you work with everyday (not the slack 'team). The channel strategy includes:
 * Each team is encouraged to maintain a public channel (if you are the team lead please consider setting this up)
-* Each team may create multiple private channels for differnt purposes
+* Each team may create multiple private channels for different purposes
 * Each community of practice has a public channel (community leads please go ahead and create these)
 * Each location has a public channel
 * Each event has a short-lived public channel
-Slack has a guide on how to create a channel. There are going to be a *lot* of channels. Channels can be really useful for targetted public conversations. To keep channels discovereable your new channel should be named according to the conventions described below.
+Slack has a guide on how to create a channel. There are going to be a *lot* of channels. Channels can be really useful for targetted public conversations. To keep channels discoverable your new channel should be named according to the conventions described below.
 
 ### Team channels
 Each team may wish to create a **public** channel. This enables others to find a team and talk with them about business challenges, technical problems, or other issues, etc.
-A public team channel should be named **#team-<team name>** for ease of discovery.
+A public team channel should be named **#team-\<team name>** for ease of discovery.
 
-Teams will probably also want to create **private** channels for internal discussions. Sometimes, depending on the size of the team you may want to have multiples of these, perhaps for subsets of the team or for specific integrations (like source code repository notifications for nstance). Priavet channels can be named whatever you like (as they are not discoverable) though they often follow the same conventions as public channels, perhaps prefixed with **int**.
+Teams will probably also want to create **private** channels for internal discussions. Sometimes, depending on the size of the team you may want to have multiples of these, perhaps for subsets of the team or for specific integrations (like source code repository notifications for nstance). Private channels can be named whatever you like (as they are not discoverable) though they often follow the same conventions as public channels, perhaps prefixed with **int-**.
 
-### Community Of Practice Channels
+### Community Of Practice channels
 People interested in a community of practice are encouraged to join or create a public channel. This will enable like-minded people to discuss issues in their community of practice. By making it public others can join or observe, often learning about things that they are not normally exposed to.
-A public community of practice channel should be named  **#community-<name of community of practice>**.
+A public community of practice channel should be named  **#community-\<name of community of practice>**.
 
-### Location Channels
+### Location channels
 People working within \<organisation> at a specific location can benefit from being a member of their own channel. Think of it as a subset of **#general**. Locations managers or members are encouraged to maintain a public channel and use it for discussion and announcement. This will enable people to stay up-to-date with location-specific issues.
 Public location channels should be named #<location>-<location name>.
 
-### Event Channels
-A bit of a catch-all, **#event-<name of event>** is used for temporal issues or discussions that don't merit an ongoing **#community** discussion. They may last only a few hours (maybe a live incidnet) or months (planning for an upcoming office move).
+### Event channels
+A bit of a catch-all, **#event-\<name of event>** is used for temporal issues or discussions that don't merit an ongoing **#community** discussion. They may last only a few hours (maybe a live incident) or months (planning for an upcoming office move).
