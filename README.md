@@ -3,7 +3,7 @@ This guide outlines a few principles and guidelines intended to get the most sha
 
 The following principles were used when writing this slack usage guide:
 
-*   Maximise the amount of information and conversations being surfaced to people
+*   Give everyone the bigger picture by making information and conversations public
     *   Widen people’s context
     *   Make channels public by default, it provides the greatest opportunity for others to learn from any discussion, and documents tribal knowledge.
 
